@@ -38,4 +38,5 @@ Docker "Hello World" example on Apache.
 ## License
 
 Copyright © 2015 Ain Tohvri. Licensed under [GPLv3](LICENSE).
+
 Special thanks to Reiner Bruns ([@warp-x](https://github.com/warp-x)) for Docker internals.
